@@ -3,7 +3,7 @@ h1, h2, h3{
 }
 
 #quienes {
-  font-size: 25px;  
+  font-size: 25px;
   padding-top:20px;
 }
 
@@ -29,6 +29,14 @@ text-align: center;
 color: #ecab4c;
 }
 
+#bgmic{
+background-image: url('images/microscopio.jpg');
+background-position: center;
+background-repeat: no-repeat;
+text-align: center;
+}
+
+
 #exampleInputEmail1 {
   background-color: gray;
   color: black;
@@ -42,4 +50,30 @@ color: #ecab4c;
 #usr {
   background-color: gray;
   color: black;
+}
+
+footer{
+  color: white;
+}
+
+p{
+text-align: justify;
+
+}
+
+li a{
+
+  color: whitesmoke;
+}
+
+li a:hover {
+
+  color: #ecab4c;
+}
+placeholder {
+  color: white;
+}
+
+#bgmic{
+  background-image:url("images/microscopio.jpg");
 }
