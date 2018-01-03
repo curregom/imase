@@ -2,6 +2,15 @@ h1, h2, h3{
   text-align: center;
 }
 
+#presentacion{
+  font-size: 25px;
+  background-image: url('images/mic.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 #quienes {
   font-size: 25px;
   padding-top:20px;
@@ -29,12 +38,7 @@ text-align: center;
 color: #ecab4c;
 }
 
-#bgmic{
-background-image: url('images/microscopio.jpg');
-background-position: center;
-background-repeat: no-repeat;
-text-align: center;
-}
+
 
 
 #exampleInputEmail1 {
@@ -72,8 +76,4 @@ li a:hover {
 }
 placeholder {
   color: white;
-}
-
-#bgmic{
-  background-image:url("images/microscopio.jpg");
 }
